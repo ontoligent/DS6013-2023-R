@@ -17,13 +17,15 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | Start time | 8:30 AM (See schedule below) |
 | Parking    | Valet parking will be provided for sponsors |
 | Fees       | There are no fees for the event |
+| Dress Code | Business Casual (no jeans) |
+| RSVP | URL forthcoming |
 
 # Schedule
 
 | Time | Activitiy |
 |------|-----------|
 | 8:30am | Doors open |
-| 9:00am  | Opening Remarks (Phil starts and then Raf) | 
+| 9:00am  | Opening Remarks by the Dean and Director | 
 | 9:20am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
 | 9:32am  | Ecommerce Brands| 
 | 9:44am  | Real Property Record Linkage |  
@@ -48,6 +50,6 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 2:39pm | Identifying and Displaying EdTech Implementation Context Profiles |
 | 2:51pm | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data |
 | 3:03pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
-| 3:15pm | Break (panelists decide on awards)  |
+| 3:15pm | BREAK  |
 | 4:00pm | Closing remarks and Awards  |
  
