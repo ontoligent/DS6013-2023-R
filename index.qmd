@@ -1,7 +1,9 @@
 ---
-title: "DS6013-2023-01-R"
+title: "DS6013 Spring 2023"
 ---
 
-This is a Quarto website.
+Welcome to the information site for DS 6013, Spring 2023. Here you will find updated information regarding the your capstone, including information about the presentation event and other things, including:
+* The format of your final documents
+* The format and requirements for your in-person presentation
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Information about the end-of-year presentation event can be found here: [Capstone Day Information](capstone-day-2023.qmd).

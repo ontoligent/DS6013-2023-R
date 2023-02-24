@@ -1,0 +1,53 @@
+---
+title: "Capstone Presentation Day"
+editor: visual
+---
+
+Welcome to the information page for the presentation event for DS 6103, Spring 2023. Here you will find all information pertaining to the event, including answer to any questions you may have asked by email (to `rca2t@virginia.edu`).
+
+# Students' To Do
+
+* Invite sponsors
+
+# Basic Info
+
+|            |              |
+|------------|--------------|
+| Location   | The Graduate, Piedmont Ballroom |
+| Start time | 8:30 AM (See schedule below) |
+| Parking    | Valet parking will be provided for sponsors |
+| Fees       | There are no fees for the event |
+
+# Schedule
+
+| Time | Activitiy |
+|------|-----------|
+| 8:30am | Doors open |
+| 9:00am  | Opening Remarks (Phil starts and then Raf) | 
+| 9:20am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
+| 9:32am  | Ecommerce Brands| 
+| 9:44am  | Real Property Record Linkage |  
+| 9:56am  | CRCL |
+| 10:08am | RNA fusions (chimeric RNAs) |
+| 10:20am | Predicting surgical outcomes from digitized hand-written operative records |
+| 10:32am | BREAK  |
+| 10:45am | Chronic disease, opioid use, and lifestyle choices |
+| 10:57am | Using Open-Sourced Models and Data to Study Gastrointestinal Histology Slides |
+| 11:09am | Extraction and normalization of inclusion and exclusion criteria from clinicaltrials.gov |
+| 11:21am | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
+| 11:33am | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time |
+| 11:45am | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE) |
+| 12:00pm | LUNCH |
+| 1:15pm  | Understanding Deep Learning with ML Commons benchmarking |
+| 1:27pm | Novel Applications for Large Language Models with Scraped Data |
+| 1:39pm | Putting History On The Map |
+| 1:51pm | Tracking Course and Curriculum Progressions at the University of Virginia |
+| 2:05 | BREAK  |
+| 2:15pm | Will they stay or will they go?  Using AI to predict turnover and increase retention |
+| 2:27pm | Engagement Time Machine |
+| 2:39pm | Identifying and Displaying EdTech Implementation Context Profiles |
+| 2:51pm | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data |
+| 3:03pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
+| 3:15 | Break (panelists decide on awards)  |
+| 4:00pm | Closing remarks and Awards  |
+ 

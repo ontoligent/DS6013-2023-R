@@ -1,0 +1,15 @@
+---
+title: "Project List"
+editor: visual
+jupyter: eta
+---
+
+```{python}
+import pandas as pd
+
+df = pd.read_excel("data/ASSIGNMENTS_FINAL.xlsx")
+```
+
+```{python}
+df[['prof','sponsor']].value_counts().to_frame('size').reset_index().sort_values(["prof","sponsor"]).reset_index(drop=True)
+```

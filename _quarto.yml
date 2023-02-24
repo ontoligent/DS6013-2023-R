@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DS 6013: The Capstone Experience, Part II"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: capstone-day-2023.qmd
+        text: Capstone Day Info
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
