@@ -1,5 +1,9 @@
 # TODO
 
+* Panelists
+  * Ethics 
+  * Technology
+  * Domain
 * Paper requirements 
 * Rubric
 * Poster requirements
