@@ -18,10 +18,11 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | Parking    | Valet parking will be provided for sponsors |
 | Fees       | There are no fees for the event |
 | Dress Code | Business Casual (no jeans) |
-| Client RSVP | [Form](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW)] |
+| Client RSVP | [Form](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) |
 
 # Schedule
 
+<!--
 | Time | Activitiy |
 |------|-----------|
 | 8:30am | Doors open |
@@ -52,4 +53,39 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 3:03pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
 | 3:15pm | BREAK  |
 | 4:00pm | Closing remarks and Awards  |
- 
+-->
+
+| Time | Activitiy |
+|------|-----------|
+| 08:30 am | Doors open |
+| 09:00 am  | Opening Remarks by the Dean and Director | 
+|| **Industry** |
+| 09:20 am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
+| 09:32 am  | Ecommerce Brands| 
+| 09:44 am  | Real Property Record Linkage |  
+| 09:56 am  | CRCL |
+|| **Systems** |
+| 10:08 am  | Understanding Deep Learning with ML Commons benchmarking |
+| 10:20 am | Novel Applications for Large Language Models with Scraped Data |
+| 10:32 am | BREAK  |
+|| **Health** |
+| 10:45 am | RNA fusions (chimeric RNAs) |
+| 10:57 am | Predicting surgical outcomes from digitized hand-written operative records |
+| 11:09 am | Chronic disease, opioid use, and lifestyle choices |
+| 11:21 am | Using Open-Sourced Models and Data to Study Gastrointestinal Histology Slides |
+| 11:33 am | Extraction and normalization of inclusion and exclusion criteria from clinicaltrials.gov |
+| 11:45 am | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
+| 12:00 pm | LUNCH |
+| 01:15 pm | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time |
+|| **Social** |
+| 01:27 pm | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE) |
+| 01:39 pm | Putting History On The Map |
+| 01:51 pm | Tracking Course and Curriculum Progressions at the University of Virginia |
+| 02:05 pm | BREAK  |
+| 02:15 pm | Will they stay or will they go?  Using AI to predict turnover and increase retention |
+| 02:27 pm | Engagement Time Machine |
+| 02:39 pm | Identifying and Displaying EdTech Implementation Context Profiles |
+| 02:51 pm | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data |
+| 03:03 pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
+| 03:15 pm | BREAK  | 
+| 04:00 pm | Closing remarks and Awards  |
