@@ -4,6 +4,11 @@
   * Ethics 
   * Technology
   * Domain
+  * Systems 
+
+* NAIL DOWN PANELISTS
+* EMAIL MENTORS . . .
+
 * Paper requirements 
 * Rubric
 * Poster requirements
