@@ -5,10 +5,6 @@ editor: visual
 
 Welcome to the information page for the presentation event for DS 6103, Spring 2023. Here you will find all information pertaining to the event, including answer to any questions you may have asked by email (to `rca2t@virginia.edu`).
 
-# Students' To Do
-
-* Invite sponsors
-
 # Basic Info
 
 |            |              |
