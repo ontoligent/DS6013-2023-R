@@ -59,16 +59,16 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 |------|-----------|
 | 08:30 am | Doors open |
 | 09:00 am  | Opening Remarks by the Dean and Director | 
-|| **Industry** |
+|| **Group I: Industry and Business** |
 | 09:20 am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
 | 09:32 am  | Ecommerce Brands| 
 | 09:44 am  | Real Property Record Linkage |  
 | 09:56 am  | CRCL |
-|| **Systems** |
+|| **Group II: Data Science Methods** |
 | 10:08 am  | Understanding Deep Learning with ML Commons benchmarking |
 | 10:20 am | Novel Applications for Large Language Models with Scraped Data |
 | 10:32 am | BREAK  |
-|| **Health** |
+|| **Group III: Health and Medicine** |
 | 10:45 am | RNA fusions (chimeric RNAs) |
 | 10:57 am | Predicting surgical outcomes from digitized hand-written operative records |
 | 11:09 am | Chronic disease, opioid use, and lifestyle choices |
@@ -77,7 +77,7 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 11:45 am | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
 | 12:00 pm | LUNCH |
 | 01:15 pm | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time |
-|| **Social** |
+|| **Group IV: History and Society** |
 | 01:27 pm | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE) |
 | 01:39 pm | Putting History On The Map |
 | 01:51 pm | Tracking Course and Curriculum Progressions at the University of Virginia |
