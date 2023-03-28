@@ -7,17 +7,23 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 
 # Basic Info
 
-|            |              |
-|------------|--------------|
-| Location   | The Graduate, Piedmont Ballroom |
-| Start time | 8:30 AM (See schedule below) |
-| Parking    | Valet parking will be provided for sponsors |
-| Fees       | There are no fees for the event |
-| Dress Code | Business Casual (no jeans) |
-| Client RSVP | [Form](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) |
++--------------------------------+------------------------------------------------------------------------+
+| Location                       | The Graduate, Piedmont Ballroom                                        |
++--------------------------------+------------------------------------------------------------------------+
+| Start time                     | 8:30 AM (See schedule below)                                           |
++--------------------------------+------------------------------------------------------------------------+
+| Parking                        | Valet parking will be provided for sponsors                            |
++--------------------------------+------------------------------------------------------------------------+
+| Fees                           | There are no fees for the event                                        |
++--------------------------------+------------------------------------------------------------------------+
+| Dress Code                     | Business Casual (no jeans)                                             |
++--------------------------------+------------------------------------------------------------------------+
+| Client RSVP                    | [Form](https://virginia.az1.qualtrics.com/jfe/form/SV_bm83no5ddCIluaW) |
++--------------------------------+------------------------------------------------------------------------+
 
 # Schedule
 
+```{=html}
 <!--
 | Time | Activitiy |
 |------|-----------|
@@ -50,38 +56,71 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 3:15pm | BREAK  |
 | 4:00pm | Closing remarks and Awards  |
 -->
-
-| Time | Activitiy |
-|------|-----------|
-| 08:30 am | Doors open |
-| 09:00 am  | Opening Remarks by the Dean and Director | 
-|| **Group I: Industry and Business** |
-| 09:20 am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
-| 09:32 am  | Ecommerce Brands| 
-| 09:44 am  | Real Property Record Linkage |  
-| 09:56 am  | CRCL |
-|| **Group II: Data Science Methods** |
-| 10:08 am  | Understanding Deep Learning with ML Commons benchmarking |
-| 10:20 am | Novel Applications for Large Language Models with Scraped Data |
-| 10:32 am | BREAK  |
-|| **Group III: Health and Medicine** |
-| 10:45 am | RNA fusions (chimeric RNAs) |
-| 10:57 am | Predicting surgical outcomes from digitized hand-written operative records |
-| 11:09 am | Chronic disease, opioid use, and lifestyle choices |
-| 11:21 am | Using Open-Sourced Models and Data to Study Gastrointestinal Histology Slides |
-| 11:33 am | Extraction and normalization of inclusion and exclusion criteria from clinicaltrials.gov |
-| 11:45 am | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
-| 12:00 pm | LUNCH |
-| 01:15 pm | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time |
-|| **Group IV: History and Society** |
-| 01:27 pm | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE) |
-| 01:39 pm | Putting History On The Map |
-| 01:51 pm | Tracking Course and Curriculum Progressions at the University of Virginia |
-| 02:05 pm | BREAK  |
-| 02:15 pm | Will they stay or will they go?  Using AI to predict turnover and increase retention |
-| 02:27 pm | Engagement Time Machine |
-| 02:39 pm | Identifying and Displaying EdTech Implementation Context Profiles |
-| 02:51 pm | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data |
-| 03:03 pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
-| 03:15 pm | BREAK  | 
-| 04:00 pm | Closing remarks and Awards  |
+```
++-------------+------------------------------------------------------------------------------------------------------------+
+| Time        | Activity                                                                                                   |
++=============+============================================================================================================+
+| 08:30 am    | Doors open                                                                                                 |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 09:00 am    | Opening Remarks by the Dean and Director                                                                   |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             | **Group I: Health and Medicine**                                                                           |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 9:20 am     | RNA fusions (chimeric RNAs)                                                                                |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 9:30 am     | Predicting surgical outcomes from digitized hand-written operative records                                 |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 9:40am      | Chronic disease, opioid use, and lifestyle choices                                                         |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 9:50 am     | Using Open-Sourced Models and Data to Study Gastrointestinal Histology Slides                              |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 10:00 am    | Extraction and normalization of inclusion and exclusion criteria from clinicaltrials.gov                   |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 10:10 am    | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 10:20 am    | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time                                 |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             | BREAK                                                                                                      |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             | **Group II: Data Science Methods**                                                                         |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 10:45 am    | Understanding Deep Learning with ML Commons benchmarking                                                   |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 10:55 am    | Novel Applications for Large Language Models with Scraped Data                                             |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             | **Group III: History and Society**                                                                         |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 11:05 am    | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE)        |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 11:15 am    | Putting History On The Map                                                                                 |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 11:25 am    | Tracking Course and Curriculum Progressions at the University of Virginia                                  |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 11:35 am    | Will they stay or will they go? Using AI to predict turnover and increase retention                        |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 11:45 am    | Engagement Time Machine                                                                                    |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 12:0 pm     | LUNCH                                                                                                      |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 1:30 pm     | Identifying and Displaying EdTech Implementation Context Profiles                                          |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 1:40 pm     | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data          |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 1:50 pm     | Exploring Accountability: Text and Network Analysis of Federal Program Audits                              |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             | **Group IV: Industry and Business**                                                                        |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 2:00 pm     | Behavioral Pattern Detection of Illegal Fishing Vessels                                                    |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 2:10 pm     | Ecommerce Brands                                                                                           |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 2:20 pm     | Real Property Record Linkage                                                                               |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 2:30 pm     | CRCL                                                                                                       |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 2:45 pm     | BREAK                                                                                                      |
++-------------+------------------------------------------------------------------------------------------------------------+
+| 3:30 pm     | Closing remarks and Awards                                                                                 |
++-------------+------------------------------------------------------------------------------------------------------------+
+|             |                                                                                                            |
++-------------+------------------------------------------------------------------------------------------------------------+
