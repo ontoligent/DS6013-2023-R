@@ -1,0 +1,37 @@
+---
+title: "Capstone Presentations"
+editor: visual
+---
+
+# Overview
+
+-   Students will present their work on [Capstone Presentation Day](capstone-day-2023.qmd).
+-   Presentations will follow the schedule listed [here](capstone-day-2023.qmd#schedule).
+-   All slide decks must be submitted by noon on Monday, May 1st. (Submission details TBA.)
+-   Awards will be given for best presentations at the end of the day.
+
+# About the Slide Deck 
+
+-   All student presentations will use a slide deck based on the following PowerPoint [template](resources/CapstoneSlideDeckTemplate.pptx).
+-   All slide decks will be integrated into a single slide deck for presentation purposes.
+-   Acknowledge clients on title slide.
+-   Represent the argument of your paper in reduced form. That is, use the structure of your paper as a framework for the structure of your presentation.
+-   Make sure all graphics are legible. Use the maximum space available and make sure any labels use large enough fonts to be readable by the audience.
+-   If you have trouble embedding a video clip (not recommended) in PowerPoint, use a link instead.
+
+# About the Presentation
+
+-   Presentations will be 7 minutes long, followed by 3 minutes of questions and answers.
+-   Time limits are strict --- be sure to practice your presentation as a group before presentation day.
+-   There will be a timekeeper in the audience notifying you of how much time you have left.
+-   During Q & A, students from the next scheduled will queue up for their talk. Details for this process will be announced on presentation day.
+-   Each student should present at least 1 slide.
+
+# Evaluation
+
+-   Presentations will be peer-evaluated.
+-   Students will have access to a form to assign a score to each presentation along various dimensions (TBA).
+
+# About the Conference
+
+-   Students are expected to attend the entire conference.

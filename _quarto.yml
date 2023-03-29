@@ -11,6 +11,9 @@ website:
       - href: capstone-day-2023.qmd
         text: Capstone Day Info
       - href: capstone-papers.qmd
+        text: Papers
+      - href: capstone-presentations.qmd
+        text: Presentations
   body-footer: "Questions? Send email to <tt>rca2t@virginia.edu</tt>."
 
 format:
