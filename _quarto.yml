@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: capstone-day-2023.qmd
-        text: Capstone Day Info
+        text: Capstone Day
       - href: capstone-papers.qmd
         text: Papers
       - href: capstone-presentations.qmd
