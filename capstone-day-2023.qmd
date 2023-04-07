@@ -9,6 +9,7 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 
 |             |                                                                        |
 |-------------|------------------------------------------------------------------------|
+| Date        | Wednesday, May 3rd, 2023
 | Location    | The Graduate, Piedmont Ballroom                                        |
 | Start time  | 8:30 AM (See schedule below)                                           |
 | Parking     | Valet parking will be provided for sponsors                            |
