@@ -1,0 +1,20 @@
+---
+title: "Capstone Posters"
+format: html
+---
+
+# Overview
+
+- Each capstone team is expected to submit a poster for their capstone project.
+- Posters are brief, visual summarizations of research for use in a variety of contexts.
+- Posters will be printed for you and may be displayed by the School of Data Science.
+
+# Format
+
+- Students are encouraged to use [this PowerPoint template](posters/SDS%20Capstone%20Poster%20Template.pptx) for their posters.
+- Students are free to alter the blocks on the template to suit their individual project's needs.
+
+# Submission
+
+- Posters should be submitted [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/ElYEPmEmzLpGpI53KaO_BbAB0QqUS2GQo_vsMbIIo4gWLQ?e=IILq1q).
+- Posters may be submitted after the Capstone Presentation event and before the start of exam week.

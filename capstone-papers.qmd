@@ -1,5 +1,5 @@
 ---
-title: "Capstone Paper Factsheet"
+title: "Capstone Papers"
 editor: visual
 ---
 
@@ -28,9 +28,11 @@ If you are using LaTex, please see arXiv's [TeX Submissions](https://info.arxiv.
 
 We have secured permission to submit our capstone papers to [arXiv](https://info.arxiv.org/about/index.html). To get your paper hosted, please follow these steps:
 
+<!--
 - Complete [author registration](https://info.arxiv.org/help/registerhelp.html) on arXiv.
+-->
 - Review [submission guidelines](https://info.arxiv.org/help/submit.html).
-- Submit both your source file (Word, LaTex) and your PDF file [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/EkdVw1Lez4pOtvojEdbmucYBgx1rn85QMb65Wiz6asblgg?e=Rri0iJ). **Do not sumbit your paper directly to arXiv.**
+- Note that you do not need to self-submit, i.e. submit directly to arXiv. Instead, please submit both your _source file_ (Word, LaTex) and its _associated PDF_ file [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/EkdVw1Lez4pOtvojEdbmucYBgx1rn85QMb65Wiz6asblgg?e=Rri0iJ). **Do not sumbit your paper directly to arXiv.**
 - Once uploaded, these will be submitted to arXiv for you.
 
 Note that your paper will be classified in one of the following groups:
