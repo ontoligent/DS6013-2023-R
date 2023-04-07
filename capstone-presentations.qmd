@@ -6,12 +6,14 @@ editor: visual
 # Overview
 
 -   Students will present their work on [Capstone Presentation Day](capstone-day-2023.qmd) on 3 May 2023.
+
 -   Presentations will follow the schedule listed [here](capstone-day-2023.qmd#schedule).
+
 -   All slide decks must be submitted no later than Monday, May 1 at 12:00pm ET. Slides should be submitted [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/Eh4YR2Vxp8xKqUJLgQTLvJIB2K2fQNjRDgIpoks5A50Cig?e=ypMpU8).
 
 -   Awards will be given for best presentations at the end of the day.
 
-# About the Slide Deck 
+# About the Slide Deck
 
 -   All student presentations will use a slide deck based on the following PowerPoint [template](resources/CapstoneSlideDeckTemplate.pptx).
 -   All slide decks will be integrated into a single slide deck for presentation purposes.

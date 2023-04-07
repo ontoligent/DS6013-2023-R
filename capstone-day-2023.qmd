@@ -8,9 +8,8 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 # Basic Info
 
 |             |                                                                        |
-|-----------------------|-------------------------------------------------|
+|-------------|------------------------------------------------------------------------|
 | Location    | The Graduate, Piedmont Ballroom                                        |
-| Date        | Wednesday, May 3rd, 2023                                        |
 | Start time  | 8:30 AM (See schedule below)                                           |
 | Parking     | Valet parking will be provided for sponsors                            |
 | Fees        | There are no fees for the event                                        |
@@ -54,7 +53,7 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 -->
 ```
 | Time     | Activity                                                                                                   |
-|--------------|----------------------------------------------------------|
+|----------|------------------------------------------------------------------------------------------------------------|
 | 08:30 am | Doors open                                                                                                 |
 | 09:00 am | Opening Remarks by the Dean and Director                                                                   |
 |          | **Group I: Health and Medicine**                                                                           |

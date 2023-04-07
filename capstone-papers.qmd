@@ -7,11 +7,12 @@ editor: visual
 
 -   You will produce a publishable paper that presents the results of your capstone project.
 -   Information on the form, content, and preparation of your paper for publication are provided in this document.
+-   Papers will be published (actually, pre-published) on [arXiv](https://info.arxiv.org/about/index.html), a high-profile curated research-sharing platform hosted by Cornell University. 
 
 # Format
 
--   Length: 6 pages maximum
--   Paper size: 8.5" by 11"
+-   Length: $6$ pages maximum
+-   Paper size: $8.5$" by $11$"
 -   See Templates below for details on fonts, line spacing, etc.
 
 # Templates
@@ -20,6 +21,28 @@ editor: visual
 -   [LaTeX](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/conference-latex-template_10-17-19.zip)
 -   [LaTeX Bibliography Files](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/IEEEtranBST2.zip)
 -   [Overleaf](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) (This is an online editor that makes producing LaTeX documents easy.)
+
+If you are using LaTex, please see arXiv's [TeX Submissions](https://info.arxiv.org/help/submit_tex.html) guidelines.
+
+# Submission
+
+We have secured permission to submit our capstone papers to [arXiv](https://info.arxiv.org/about/index.html). To get your paper hosted, please follow these steps:
+
+- Complete [author registration](https://info.arxiv.org/help/registerhelp.html) on arXiv.
+- Review [submission guidelines](https://info.arxiv.org/help/submit.html).
+- Submit both your source file (Word, LaTex) and your PDF file [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/EkdVw1Lez4pOtvojEdbmucYBgx1rn85QMb65Wiz6asblgg?e=Rri0iJ). **Do not sumbit your paper directly to arXiv.**
+- Once uploaded, these will be submitted to arXiv for you.
+
+Note that your paper will be classified in one of the following groups:
+
+```yaml
+cs.AI (Artificial Intelligence)
+cs.CY (Computers and Society)
+cs.DL (Digital Libraries)
+cs.IR (Information Retrieval)
+cs.LG (Machine Learning)
+```
+
 
 # Abstracts
 
