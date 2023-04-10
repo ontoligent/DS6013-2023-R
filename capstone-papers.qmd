@@ -34,7 +34,7 @@ We have secured permission to submit our capstone papers to [arXiv](https://info
 - Review [submission guidelines](https://info.arxiv.org/help/submit.html).
 - Note that you do not need to self-submit, i.e. submit directly to arXiv. Instead, please submit both your _source file_ (Word, LaTex) and its _associated PDF_ file [here](https://myuva.sharepoint.com/:f:/s/CapstoneDayMay2023/EkdVw1Lez4pOtvojEdbmucYBgx1rn85QMb65Wiz6asblgg?e=Rri0iJ). **Do not sumbit your paper directly to arXiv.**
 - Once uploaded, these will be submitted to arXiv for you.
-- Even though you do not need create your onw arXiv account to have your paper hosted, you  are welcome to register (for free) on arXiv to claim ownership of your paper's authority records once your paper are public. This is also a good idea for you professionally; once you are registered and have had a paper submitted, you may continue to submit your work to arXiv.
+- Even though you do not need create your onw arXiv account to have your paper hosted, you  are welcome to register (for free) on arXiv to claim ownership of your paper's authority records once your paper is public. This is also a good idea for you professionally; once you are registered and have had a paper submitted, you may continue to submit your work to arXiv.
 
 Note that your paper will be classified in one of the following groups:
 
