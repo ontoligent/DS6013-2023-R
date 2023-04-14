@@ -19,40 +19,6 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 
 # Schedule {#schedule}
 
-```{=html}
-<!--
-| Time | Activitiy |
-|------|-----------|
-| 8:30am | Doors open |
-| 9:00am  | Opening Remarks by the Dean and Director | 
-| 9:20am  | Behavioral Pattern Detection of Illegal Fishing Vessels | 
-| 9:32am  | Ecommerce Brands| 
-| 9:44am  | Real Property Record Linkage |  
-| 9:56am  | CRCL |
-| 10:08am | RNA fusions (chimeric RNAs) |
-| 10:20am | Predicting surgical outcomes from digitized hand-written operative records |
-| 10:32am | BREAK  |
-| 10:45am | Chronic disease, opioid use, and lifestyle choices |
-| 10:57am | Using Open-Sourced Models and Data to Study Gastrointestinal Histology Slides |
-| 11:09am | Extraction and normalization of inclusion and exclusion criteria from clinicaltrials.gov |
-| 11:21am | Equity in COVID-19 Patient Care: An Investigation Leveraging the National COVID Cohort Collaborative (N3C) |
-| 11:33am | Tracking COVID Impacts on Albemarle County Student Mental Health Over Time |
-| 11:45am | Considering a potential relationship between the opioid crisis and domestic violent extremism (DVE) |
-| 12:00pm | LUNCH |
-| 1:15pm  | Understanding Deep Learning with ML Commons benchmarking |
-| 1:27pm | Novel Applications for Large Language Models with Scraped Data |
-| 1:39pm | Putting History On The Map |
-| 1:51pm | Tracking Course and Curriculum Progressions at the University of Virginia |
-| 2:05 | BREAK  |
-| 2:15pm | Will they stay or will they go?  Using AI to predict turnover and increase retention |
-| 2:27pm | Engagement Time Machine |
-| 2:39pm | Identifying and Displaying EdTech Implementation Context Profiles |
-| 2:51pm | The Drivers and Impacts of Pretrial Detention in Virginia: Analysis of the Virginia Pretrial Data |
-| 3:03pm | Exploring Accountability: Text and Network Analysis of Federal Program Audits (US citizens only) |
-| 3:15pm | BREAK  |
-| 4:00pm | Closing remarks and Awards  |
--->
-```
 | Time     | Activity                                                                                                   |
 |----------|------------------------------------------------------------------------------------------------------------|
 | 08:30 am | Doors open                                                                                                 |
@@ -87,3 +53,15 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 2:45 pm  | BREAK                                                                                                      |
 | 3:30 pm  | Closing remarks and Awards                                                                                 |
 |          |                                                                                                            |
+
+# Flow of the Day
+ 
+- Arrive at The Graduate Hotel – Piedmont Room by 8:45am ET. Dress is business casual. Continental breakfast will be served.
+- Choose your own seats (ideally with your group members). Your slides will be queued up based upon the schedule that has already been shared.
+- Pay attention to the schedule. Groups will present for 7 minutes, with 3 minutes for Q&A.
+Someone will have a sign letting you know you have 2 minutes remaining, then one minute remaining, and 30 seconds to go.
+- As soon as the group before you finishes their presentation, quietly move to the front during Q&A to begin on time.
+- Lunch will be served at the hotel.
+- Following Closing Remarks & Awards, head to The Rotunda for a MSDS Residential class photo.
+- After photos, join us for a Capstone Presentation Day Pizza Party on The Corner!
+- Our faculty, staff, and Capstone sponsors are really excited to hear of your experiences. Have questions? Check here first, then reach out to me or Prof. Alvarado.
