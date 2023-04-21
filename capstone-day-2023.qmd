@@ -47,7 +47,7 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 | 1:50 pm  | Exploring Accountability: Text and Network Analysis of Federal Program Audits                              |
 |          | **Group IV: Industry and Business**                                                                        |
 | 2:00 pm  | Behavioral Pattern Detection of Illegal Fishing Vessels                                                    |
-| 2:10 pm  | Ecommerce Brands                                                                                           |
+| 2:10 pm  | Predicting Retail Sales                                                                                           |
 | 2:20 pm  | Real Property Record Linkage                                                                               |
 | 2:30 pm  | CRCL                                                                                                       |
 | 2:45 pm  | BREAK                                                                                                      |
