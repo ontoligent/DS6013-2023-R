@@ -7,7 +7,7 @@ Welcome to the information page for the presentation event for DS 6103, Spring 2
 
 # Zoom Link 
 
-- https://virginia.zoom.us/j/96074465976?pwd=VTRFVG9rRXdpNXRNR1E4WEljKzB2UT09
+- [https://virginia.zoom.us/j/96074465976?pwd=VTRFVG9rRXdpNXRNR1E4WEljKzB2UT09](https://virginia.zoom.us/j/96074465976?pwd=VTRFVG9rRXdpNXRNR1E4WEljKzB2UT09)
 - Meeting ID: 960 7446 5976
 - Passcode: 855181
 
