@@ -5,6 +5,12 @@ editor: visual
 
 Welcome to the information page for the presentation event for DS 6103, Spring 2023. Here you will find all information pertaining to the event, including answer to any questions you may have asked by email (to `rca2t@virginia.edu`).
 
+# Zoom Link 
+
+- https://virginia.zoom.us/j/96074465976?pwd=VTRFVG9rRXdpNXRNR1E4WEljKzB2UT09
+- Meeting ID: 960 7446 5976
+- Passcode: 855181
+
 # Basic Info
 
 |             |                                                                        |
