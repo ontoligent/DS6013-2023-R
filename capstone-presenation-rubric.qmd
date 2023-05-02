@@ -1,0 +1,69 @@
+```yaml
+Capstone Title:
+Date:
+Reviewer:
+```
+
+# Instructions
+
+For each criterion, assign a value from the scale below to the paper and the presentation.
+
+$1$: unsatisfactory\
+$2$: minimally competent\
+$3$: competent\
+$4$: very good\
+$5$: excellent
+
+Note: The intent of this rubric is to evaluate the strengths and weaknesses of the work. Therefore, explicit weightings for each category are not provided and a “total score” not computed.
+
+# Categories
+
+## Problem Definition
+
+Evaluates the quality of the authors’ description of the
+problem they are addressing.
+
+| Criterion | Paper | Presentation |
+|-----------|-------|--------------|
+| Did the authors fully define and motivate the problem? | ___ | ___ |
+| Did the authors scope the problem effectively? | ___ | ___ |
+| Are project goals/objectives defined? | ___ | ___ |
+| Are prior works given and referenced appropriately? | ___ | ___ |
+
+## Methodology / Technical Approach
+
+Evaluates the appropriate application of data science.
+
+| Criterion | Paper | Presentation |
+|-----------|-------|--------------|
+| Is the approach appropriate and valid for the defined problem? | ___ | ___ |
+| Are the data sources sufficiently defined? Are the processing and cleaning of the data sufficiently described? | ___ | ___ |
+| Is the analysis (quantitative and/or qualitative) correct? Is it complete? Is it repeatable? | ___ | ___ |
+| Were other methods/tools/approaches considered? | ___ | ___ |
+| Are the performance measures defined and appropriate? | ___ | ___ |
+
+## Results / Conclusions
+
+Evaluates the quality of the final product (i.e, the results)
+and conclusions which resulted from the Methodology /
+Technical Approach.
+
+| Criterion | Paper | Presentation |
+|-----------|-------|--------------|
+| Do the results address the stated problem? | ___ | ___ |
+| Do the results have the desired impact? | ___ | ___ |
+| Are the conclusions supported by evidence? | ___ | ___ |
+| Are the limitations of the approach/results considered? | ___ | ___ |
+
+## Communication
+
+Evaluates the clarity and precision with which the authors
+communicate.
+
+| Criterion | Paper | Presentation |
+|-----------|-------|--------------|
+| Do you understand what the authors did? | ___ | ___ |
+| Is the writing / presenting aimed at the appropriate audience? Is it interesting? Does it engage you?  | ___ | ___ |
+| Are figures and tables used effectively? | ___ | ___ |
+| Is the writing efficient / concise? (paper only) | ___ | ___ |
+| Are questions answered effectively (presentation only) | ___ | ___ |
